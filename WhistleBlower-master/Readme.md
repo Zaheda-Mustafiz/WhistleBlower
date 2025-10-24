@@ -70,7 +70,7 @@ Here's what you need to be able to run WhistleBlower:
 #### First Clone the repository
 
 ```shell
-git clone https://github.com/Gourav-21/WhistleBlower.git
+git clone https://github.com/Zaheda-Mustafiz/WhistleBlower.git
 
 ```
 
