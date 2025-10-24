@@ -158,7 +158,3 @@ Visit [http://localhost:3000](http://localhost:3000) in your browser.
 - Smart contracts are deployed on the Secret Network for privacy and security.
 - The platform encourages collaboration and contributions by being open source.
 
-### Demo Video:
-https://www.youtube.com/watch?v=gEg9Jlg3IJ4&feature=youtu.be
-
-[![Whistleblower](WhistleBlower.gif)](https://www.youtube.com/watch?v=gEg9Jlg3IJ4)
